@@ -1,12 +1,12 @@
-### Olá! Eu sou a Aline Moura 
+### Olá! Eu sou Aline Moura Santos
 
+Atualmente estudo Desenvolvimento Web na Trybe, buscando novos desafios e desenvolvimento profissional voltado à área de tecnologia.
 
 <div>
 <a href="https://github.com/AlineMSant">
-<img heigth = "180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=AlineMSant&show_icons=true&theme=onedark">
+<img heigth = "180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=AlineMSant&show_icons=true&theme=onedark"><br />
 <img heigth = "100em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineMSant&&layout=compact&theme=onedark">
 </div>
-
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
