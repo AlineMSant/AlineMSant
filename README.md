@@ -7,3 +7,4 @@
 <img heigth = "100em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineMSant&&layout=compact&theme=onedark">
 </div>
 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
