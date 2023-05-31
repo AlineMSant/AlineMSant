@@ -3,7 +3,7 @@
 <p align="center">🌱 Atualmente estudo Desenvolvimento Web na Trybe, buscando novos desafios e desenvolvimento profissional voltado à área de tecnologia.</p>
 
 <div align="center">
-<img src ="https://github.com/AlineMSant/AlineMSant/assets/115490912/35ee8399-30eb-4f7a-851f-67829730aee3" width="300px" />
+<img src ="https://github.com/AlineMSant/AlineMSant/assets/115490912/35ee8399-30eb-4f7a-851f-67829730aee3" width="200px" />
 </div>
   
 <div align="center">
