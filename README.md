@@ -4,7 +4,7 @@
 <img src ="https://github.com/AlineMSant/AlineMSant/assets/115490912/35ee8399-30eb-4f7a-851f-67829730aee3" width="130px" align="right" />
 <div align="left" style="display: inline_block" width="200px">
       <li>💻 Estudante de Desenvolvimento Web Full Stack na Trybe</li>
-      <li>🎓 Estudante de Análise e Desenvolvimento de Sistemas</li>
+      <li>💻 Estudante de Análise e Desenvolvimento de Sistemas</li>
       <li>🎓 Formada em Gestão Comercial</li>
       <li>🌱 Buscando novos desafios e desenvolvimento profissional voltado à área de tecnologia.</li>
 </div>
